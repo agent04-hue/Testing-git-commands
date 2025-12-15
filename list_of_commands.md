@@ -1,0 +1,1 @@
+1. git config --global user.name "[your name]" (Sets your username for all repositories on the current WSL distribution.)
